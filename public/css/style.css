@@ -1,0 +1,74 @@
+/* input{
+    padding: 5px;
+    border: 1px solid black;
+}
+
+body {
+    background-color: #F6E8B8;
+}
+
+a {
+    color: #683611;
+}
+
+form input[type="submit"] {
+    background-color: #96581C;
+    color: #F6E8B8;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+    background-color: #EEC76F;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th,
+td {
+    border: 1px solid #D2973E;
+    padding: 10px;
+}
+
+th {
+    background-color: #EEC76F;
+    color: #683611;
+}
+
+tr:nth-child(even) {
+    background-color: #F6E8B8;
+}
+
+tr:hover {
+    background-color: #EEC76F;
+}
+
+button,
+input[type="number"],
+input[type="tel"],
+input[type="text"],
+input[type="date"] {
+    padding: 10px;
+    border: 2px solid #D2973E;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+button,
+input[type="number"]:focus,
+input[type="tel"]:focus,
+input[type="text"]:focus,
+input[type="date"]:focus {
+    outline: none;
+    border-color: #683611;
+}
+
+::placeholder {
+    color: #D2973E;
+} */

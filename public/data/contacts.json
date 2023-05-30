@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": 3,
+      "fullName": "sdfsdfsd",
+      "phoneNumber": "1231231231"
+    },
+    {
+      "id": 4,
+      "fullName": "фывфывфы",
+      "phoneNumber": "1231231"
+    },
+    {
+      "id": 5,
+      "fullName": "sdadff",
+      "phoneNumber": "+375296436373"
+    }
+  ]
+}
